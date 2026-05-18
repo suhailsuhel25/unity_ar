@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "unity_ar.slnx"
+    "dotnet.defaultSolution": "Kelompok 7.slnx"
 }
