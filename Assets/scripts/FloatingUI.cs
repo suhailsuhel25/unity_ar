@@ -11,7 +11,8 @@ public class FloatingUI : MonoBehaviour
     }
 
     void Update() {
+        RectTransform rect = GetComponent<RectTransform>();
         float newY = posInitial.y + Mathf.Sin(Time.time * frequency) * amplitude;
-        GetComponent<RectTransform>().anchoredPosition = new Vector2(posInitial.x, newY);
+        rect.anchoredPosition = new Vector2(rect.anchoredPosition.x, newY);
     }
 }

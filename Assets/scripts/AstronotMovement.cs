@@ -15,7 +15,7 @@ public class AstronotMovement : MonoBehaviour
     {
         rectTransform = GetComponent<RectTransform>();
         // Mulai dari tengah layar
-        rectTransform.anchoredPosition = new Vector2(230, rectTransform.anchoredPosition.y);
+        rectTransform.anchoredPosition = new Vector2(160, rectTransform.anchoredPosition.y);
     }
 
     void Update()
