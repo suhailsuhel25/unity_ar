@@ -6,7 +6,7 @@ public class AstronotMovement : MonoBehaviour
     public float rotationSpeed = 90f;
     public float topBoundary = 350f;
     public float bottomBoundary = -350f;
-    public float startX = -350f;           // Posisi horizontal astronot (atur di Inspector)
+    public float startX = -350f;
 
     private RectTransform rectTransform;
     private float currentY;

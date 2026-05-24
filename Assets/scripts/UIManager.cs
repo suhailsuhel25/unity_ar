@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
 {
@@ -28,5 +29,11 @@ public class UIManager : MonoBehaviour
         mainMenu.SetActive(true);
         panelLangkahAR.SetActive(false);
         panelJelajah.SetActive(false);
+    }
+
+    // BALIK KE MISSION CONTROL SCENE
+    public void BackToMissionControl()
+    {
+        SceneManager.LoadScene("MissionControl");
     }
 }

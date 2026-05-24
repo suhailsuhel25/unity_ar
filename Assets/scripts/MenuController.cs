@@ -30,4 +30,9 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void BukaTutorial()
+    {
+        SceneManager.LoadScene("Langkah-Langkah");
+    }
 }
