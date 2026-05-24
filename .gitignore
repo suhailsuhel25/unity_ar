@@ -20,3 +20,15 @@ MemoryCaptures/
 
 .DS_Store
 Thumbs.db
+
+# Unity Android build cache
+.utmp/
+
+# VS Code
+.vscode/
+
+# Recovery files
+/[Aa]ssets/_Recovery/
+
+# Gradle
+.gradle/
