@@ -35,4 +35,19 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene("Langkah-Langkah");
     }
+
+    public void BukaAstroScanAR()
+    {
+        SceneManager.LoadScene("AstroScanAR");
+    }
+
+    public void BukaJelajahTataSurya()
+    {
+        SceneManager.LoadScene("JelajahTataSurya");
+    }
+
+    public void KembaliKeMissionControl()
+    {
+        SceneManager.LoadScene("MissionControl");
+    }
 }

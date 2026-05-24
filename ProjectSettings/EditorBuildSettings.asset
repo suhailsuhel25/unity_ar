@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AstroScanAR.unity
     guid: 6290b8880b13b6a4e8a25dc6f09e7afc
+  - enabled: 1
+    path: Assets/Scenes/JelajahTataSurya.unity
+    guid: 6c34495f8086469e81927e40d3374eaf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d12794c29f63a344291ff1397eb64b20, type: 2}
