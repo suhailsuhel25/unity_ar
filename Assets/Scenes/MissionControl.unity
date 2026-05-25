@@ -891,6 +891,10 @@ PrefabInstance:
       value: -111.8
       objectReference: {fileID: 0}
     - target: {fileID: 4113510406314048740, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1738819988}
+    - target: {fileID: 4113510406314048740, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: BukaAstro
       objectReference: {fileID: 0}
@@ -921,6 +925,26 @@ PrefabInstance:
     - target: {fileID: 4421980593996190520, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_Name
       value: jelajahi
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701317978532766494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6623904
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701317978532766494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6623904
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701317978532766494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6623904
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701317978532766494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701317978532766494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7208127548062000575, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_Name
