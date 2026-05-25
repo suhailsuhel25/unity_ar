@@ -10,16 +10,19 @@ EditorBuildSettings:
     guid: 26d34728292cc8c43b8f46b711ee083c
   - enabled: 1
     path: Assets/Scenes/MissionControl.unity
-    guid: c1b4a8b5d9e2f4a7b3c6d8e9f1a2b3c4
+    guid: f85166f52ecdf654a9b8bd272aeb6915
   - enabled: 1
     path: Assets/Scenes/Langkah-Langkah.unity
     guid: 762a39d45f2c38b49959e5f3a7557929
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AstroScanAR.unity
     guid: 6290b8880b13b6a4e8a25dc6f09e7afc
   - enabled: 1
     path: Assets/Scenes/JelajahTataSurya.unity
-    guid: 6c34495f8086469e81927e40d3374eaf
+    guid: f17027768172676a7a19ab49a7b68c6b
+  - enabled: 1
+    path: Assets/Scenes/AstroScanner.unity
+    guid: 46175cdfb525d914a922a0a5baa48262
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d12794c29f63a344291ff1397eb64b20, type: 2}

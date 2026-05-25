@@ -858,14 +858,6 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 74bb857431dac46409ffaee9cc23092c, type: 3}
-    - target: {fileID: 1165656171794394130, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1738819988}
-    - target: {fileID: 1165656171794394130, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: BukaAstroScanAR
-      objectReference: {fileID: 0}
     - target: {fileID: 982779339484130133, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -873,6 +865,14 @@ PrefabInstance:
     - target: {fileID: 982779339484130133, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: BukaJelajahTataSurya
+      objectReference: {fileID: 0}
+    - target: {fileID: 1165656171794394130, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1738819988}
+    - target: {fileID: 1165656171794394130, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: BukaAstroScanAR
       objectReference: {fileID: 0}
     - target: {fileID: 1944080628471285477, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_Name
@@ -889,6 +889,10 @@ PrefabInstance:
     - target: {fileID: 1966235136616655247, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -111.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113510406314048740, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: BukaAstro
       objectReference: {fileID: 0}
     - target: {fileID: 4187162010470490373, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_LocalScale.x

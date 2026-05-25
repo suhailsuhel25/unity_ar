@@ -36,9 +36,9 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene("Langkah-Langkah");
     }
 
-    public void BukaAstroScanAR()
+    public void BukaAstro()
     {
-        SceneManager.LoadScene("AstroScanAR");
+        SceneManager.LoadScene("AstroScanner");
     }
 
     public void BukaJelajahTataSurya()
