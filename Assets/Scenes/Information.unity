@@ -562,11 +562,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7513608806373753652, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.0007213
+      value: 0.99443805
       objectReference: {fileID: 0}
     - target: {fileID: 7513608806373753652, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.0007213
+      value: 1.0034286
       objectReference: {fileID: 0}
     - target: {fileID: 7513608806373753652, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       propertyPath: m_LocalScale.z
@@ -620,6 +620,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7568054761577521538, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568054761577521538, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568054761577521538, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568054761577521538, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 9175305239898023936, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
@@ -627,6 +643,7 @@ PrefabInstance:
     - {fileID: 1944080628471285477, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
     - {fileID: 4421980593996190520, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
     - {fileID: 7101327712221751494, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
+    - {fileID: 4879918818746781578, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 7513608806373753652, guid: 6a53f99b4b9f7284489d649d91a7390d, type: 3}
       insertIndex: -1
