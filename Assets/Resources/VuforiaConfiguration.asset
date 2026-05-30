@@ -15,7 +15,7 @@ MonoBehaviour:
   vuforia:
     vuforiaLicenseKey: AfijCAH/////AAABmRPyD9aBtUeeghWD48G60hIB2nLjosAAXASesL7DlF9khRyyJkuOdK/ZgfxFIPSKYm1yy8iooQ72rCX1cINVt/GLEnEsB/fIg/t5vO5yJPGOh11G07l/377NTZrsNoTOH5o1SsfqDvpyIgYpR9vMe+EfHc/dNTBp+RAIQtv6aqc3WcfUCa/FzTv7EBMtk4vNFqRAZAHBgNAq5IxMzvWsEFrpmv68ctcyDazT+Pag5YQGLRJNsc3s+N5cK+rbzMu9fENkxaiB4ICJo53Z66t0TdDmRnvptCslDRgGXuSJjULAIWDPx9wGOMtt9akf4iXGb5JkDgcKTA7BBGD2kzDnu8EO4xnlM823YXpRG8FaXBIc
     ufoLicenseKey: QWFZZ1dzRC8vLy8vQUFBQUtGVzM3YWJRSGttRmxEeDVmaEo0cWNwNVowOGF4M2tzU0c4QWxkOFlNL1Urc3lGQVNFcVp3RTNnN1d1UjZmNGk1dUpzN05QQ3Bxcm4xTGQ3Y0FSMFlpalErYy9QYnFtZTVXMU1QMnlQRFhmdlljR25teHNWUGluYlg0cW1PbmZOWDJQQnV3dnJLdEJGa0QvNjFKZGNHdFlUUnJqeSt4Uitxazg3UVdiMkJmcWhpOEwxeFFDTVpacDdJUmxZQmFNd0hRQ1VQQnorODdlK1JLMzAraVdQTnQvZSttY3RRaUhFZ1dBRnRaTi9YdHVVN2xtRkVPTFIxOWM4dXlKc1FhMVpNbjVMeXZrSmI1ME10dUNjekg2d0pna1p6aGJCVW4rM1h2R3dMQlJwQm5GKzdVbGVPUzhoTW5Jbi9yakdOVWJQZEIzaWNTamd3K1RHL01ucTNIUTBDOTZJbkNGZFhic1ZUWTdMNE1ubnV6Snk=
-    delayedInitialization: 0
+    delayedInitialization: 1
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -47,7 +47,7 @@ MonoBehaviour:
     thirdPartyARCoreClientDetected: 0
   playmode:
     mRecordingPath: 
-    playModeType: 0
+    playModeType: 1
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:
     renderTextureLayer: 30
